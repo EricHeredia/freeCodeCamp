@@ -20,6 +20,8 @@ One of the main differences that Vim (and its predecessor, *vi*) have over other
 
 The modal part of Vim is what makes it really powerful. For a interactive tutorial, please visit [OpenVim](http://www.openvim.com/). Here you can try for yourself several of its more powerful features.
 
+Vim installations come with a built in tutor to get you started using Vim. Type `vimtutor` in terminal for UNIX environments or newer versions of Vim have a start menu shortcut to the tutor for Windows systems.
+
 ## More information
 
 For more information head to <a href='https://vim.sourceforge.io' target='_blank' rel='nofollow'>Vim's homepage</a>
